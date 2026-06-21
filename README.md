@@ -71,5 +71,4 @@ cloud-kitchen-pnl-dashboard/
 
 ## 🔗 Live Demo
 
-<!-- Add your Streamlit Community Cloud link once deployed -->
-Coming soon — deployed via Streamlit Community Cloud.
+👉 **[cloud-kitchen-pnl.streamlit.app](https://cloud-kitchen-pnl.streamlit.app/)**
